@@ -1,0 +1,4 @@
+请bash到test目录：
+1、npm install安装所需模块
+2、npm test进行单元测试
+3、npm start默认在3000端口开启web
